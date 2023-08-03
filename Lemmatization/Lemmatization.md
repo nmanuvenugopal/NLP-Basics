@@ -17,7 +17,7 @@ Lemmatization can be particularly useful in various NLP tasks such as:
 
 4. Named Entity Recognition (NER): Lemmatization can assist in identifying entities by reducing words to their base forms.
 
-Language Generation: Lemmatized words can improve the quality and coherence of generated text in tasks like machine translation, text summarization, and chatbots.
+5. Language Generation: Lemmatized words can improve the quality and coherence of generated text in tasks like machine translation, text summarization, and chatbots.
 
 Lemmatization is usually performed using linguistic resources such as dictionaries and morphological analysis to determine the lemma of a word based on its POS. Popular NLP libraries like NLTK 
 (Natural Language Toolkit) and spaCy provide lemmatization capabilities, making it easy for developers and researchers to integrate this process into their NLP pipelines.
